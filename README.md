@@ -6,6 +6,6 @@ unity project を github でバージョン管理するテスト (2016-01-16 進
 2. create の際に、unity 用の gitignore を選択
 3. リモートに publish
 
-
+たき
 
 
